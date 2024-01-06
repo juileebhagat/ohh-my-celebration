@@ -1,0 +1,18 @@
+.foot li{
+    list-style: circle;
+    color: gray;
+}
+
+.foott li{
+    color: gray;
+}
+
+.foot li:hover{
+    color: rgb(201, 122, 5);
+    cursor: pointer;
+}
+
+.foott li:hover{
+    color: rgb(201, 122, 5);
+    cursor: pointer;
+}
